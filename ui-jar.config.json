@@ -1,0 +1,8 @@
+{
+  "directory": "src/app",
+  "includes": [
+    ".ts$"
+  ],
+  "watch": false,
+  "urlPrefix": ""
+}
